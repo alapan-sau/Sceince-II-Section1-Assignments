@@ -1,0 +1,5 @@
+operator
+functools
+numpy
+matplotlib
+scipy
